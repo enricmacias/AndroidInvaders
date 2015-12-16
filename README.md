@@ -4,7 +4,12 @@
 
 Mobile Game for Android devices. 
 Developed with Eclipse using the Android extension.
-The game was developed all by myself.
+
+Download the apk file [here](https://dl.dropboxusercontent.com/u/8500453/android_invaders.apk)
+
+Androidスマホゲーム。
+EclipseとAndroid extensionを使用。
+一人で開発。
 
 ## Languages
 
