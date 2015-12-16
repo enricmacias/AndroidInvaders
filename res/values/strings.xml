@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="start">Starting...</string>
+    <string name="mode_ready">Android Invaders\nPress Up to Play</string>
+    <string name="mode_running">Running app...</string>
+    <string name="mode_pause">Pause\nPress Up to Play</string>
+    <string name="mode_lose_prefix">GAME OVER\n</string>
+    <string name="mode_lose_suffix"> Points\nPress Up to Play</string>
+    <string name="mode_win">YOU WIN!!\nCONGRATULATIONS!</string>
+    <string name="app_name">Android Invaders</string>
+</resources>
